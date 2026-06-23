@@ -51,10 +51,10 @@ Successfully cleaned and transformed raw dataset into an analysis-ready format f
 <img src="screenshot/raw_data.png" width="700"/>
 
 ### Duplicate Detection
-<img src="screenshot/duplicate_check.png" width="700"/>
+<img src="duplicate_check.png" width="700"/>
 
 ### Data Standardization
-<img src="screenshot/industry_standardization.png" width="700"/>
+<img src="industry_standardization.png" width="700"/>
 
 ### Final Clean Dataset
 <img src="screenshot/final_cleaned_data.png" width="700"/>
