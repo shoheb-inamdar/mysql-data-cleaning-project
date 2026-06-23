@@ -10,6 +10,19 @@ The goal was to transform unclean data into a structured dataset ready for analy
 - MySQL
 - SQL
 
+## Dataset Information
+
+Dataset contains company layoffs information including:
+- Company
+- Location
+- Industry
+- Total layoffs
+- Percentage laid off
+- Date
+- Stage
+- Country
+- Funds raised
+
 ## Data Cleaning Steps Performed
 
 ### 1. Removing Duplicates
@@ -45,6 +58,23 @@ The goal was to transform unclean data into a structured dataset ready for analy
 
 Successfully cleaned and transformed raw dataset into an analysis-ready format for further reporting and visualization.
 
+## Before Cleaning
+
+Raw dataset contained:
+- Duplicate records
+- Missing values
+- Inconsistent formats
+
+
+## After Cleaning
+
+Clean dataset achieved:
+- Removed duplicate records
+- Standardized values
+- Fixed date format
+- Handled missing data
+
+
 ## Screenshots
 
 ### Raw Dataset
@@ -58,3 +88,12 @@ Successfully cleaned and transformed raw dataset into an analysis-ready format f
 
 ### Final Clean Dataset
 <img src="screenshot/final_cleaned_data.png" width="700"/>
+
+## Analysis Questions
+
+After cleaning, the dataset can be used to analyze:
+
+- Which companies had highest layoffs?
+- Which industries were most affected?
+- Which countries had maximum layoffs?
+- Layoff trends over time?
