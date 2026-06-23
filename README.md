@@ -44,3 +44,17 @@ The goal was to transform unclean data into a structured dataset ready for analy
 ## Project Outcome
 
 Successfully cleaned and transformed raw dataset into an analysis-ready format for further reporting and visualization.
+
+## Screenshots
+
+### Raw Dataset
+![Raw Data](screenshots/raw_data.png)
+
+### Duplicate Detection
+![Duplicate Check](screenshots/duplicate_check.png)
+
+### Data Standardization
+![Industry Standardization](screenshots/industry_standardization.png)
+
+### Final Clean Dataset
+![Final Data](screenshots/final_cleaned_data.png)
