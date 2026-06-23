@@ -48,13 +48,13 @@ Successfully cleaned and transformed raw dataset into an analysis-ready format f
 ## Screenshots
 
 ### Raw Dataset
-![Raw Data](screenshots/raw_data.png)
+<img src="screenshot/raw_data.png" width="700"/>
 
 ### Duplicate Detection
-![Duplicate Check](screenshots/duplicate_check.png)
+<img src="screenshot/duplicate_check.png" width="700"/>
 
 ### Data Standardization
-![Industry Standardization](screenshots/industry_standardization.png)
+<img src="screenshot/industry_standardization.png" width="700"/>
 
 ### Final Clean Dataset
-![Final Data](screenshots/final_cleaned_data.png)
+<img src="screenshot/final_cleaned_data.png" width="700"/>
