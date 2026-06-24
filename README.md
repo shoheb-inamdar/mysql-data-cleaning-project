@@ -27,7 +27,7 @@ The dataset contains company layoffs information including:
 - Total layoffs
 - Percentage laid off
 - Date
-- Company stage
+- stage
 - Country
 - Funds raised
 
